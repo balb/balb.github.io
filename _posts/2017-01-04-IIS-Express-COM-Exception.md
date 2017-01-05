@@ -10,4 +10,4 @@ It turns out that IIS Express runs in 32 bit mode by default. Switching it to 64
 
 In Visual Studio go to Tools > Options > Projects and Solutions > Web Projects > Use the 64 bit version of IIS Express for web sites and projects
 
-Thanks to https://ppolyzos.com/2015/12/01/enable-x64-bit-version-of-iis-express/ for this.
+Thanks to [ppolyzos](https://ppolyzos.com/2015/12/01/enable-x64-bit-version-of-iis-express/) for this.
