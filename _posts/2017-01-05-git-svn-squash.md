@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "git-svn squash"
+---
+
 At work we still use Subversion but I like to work locally with git then push my changes back to Subversion. 
 
 If I push a bunch of local commits back to Subversion then multiple builds are kicked off on the continuous integration server. This isn't great.

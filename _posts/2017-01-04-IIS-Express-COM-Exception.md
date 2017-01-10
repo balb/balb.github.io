@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "IIS Express COM Exception"
+---
+
 My app was running OK under Local IIS but when I switched to use IIS Express in Visual Studio I started to get this error
 
 ```
