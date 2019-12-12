@@ -29,6 +29,9 @@ url: "https://balb.github.io" # the base hostname & protocol for your site, e.g.
 # twitter_username: jekyllrb
 github_username:  balb
 
+# minima stuff
+show_excerpts: true
+
 # Build settings
 theme: minima
 plugins:
