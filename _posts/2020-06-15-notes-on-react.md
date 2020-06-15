@@ -1,4 +1,7 @@
-# Notes on React
+---
+layout: post
+title:  "Notes on React"
+---
 
 ## Webpack Setup
 
