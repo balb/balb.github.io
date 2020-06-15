@@ -1,8 +1,6 @@
 ---
-layout: page
+title: Bookmarks
 ---
-
-# Bookmarks
 
 ## Tools
 * 2020-06 [ngrok - Public URLs for exposing your local web server](https://ngrok.com/)
