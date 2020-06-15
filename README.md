@@ -1,1 +1,1 @@
-* [React](/react.md)
+My GitHub Pages website - https://balb.github.io/
