@@ -2,17 +2,15 @@
 
 ## Webpack Setup
 
-* https://www.typescriptlang.org/docs/handbook/react-&-webpack.html
-* https://createapp.dev/
-* https://webpack.js.org/guides/typescript/
-* Source maps?
+* <https://www.typescriptlang.org/docs/handbook/react-&-webpack.html>
+* <https://createapp.dev/>
+* <https://webpack.js.org/guides/typescript/>
 
 ## CSS Modules
 
-* https://css-tricks.com/css-modules-part-1-need/
+* <https://css-tricks.com/css-modules-part-1-need/>
 
-## HTTPS
+## Setting up HTTPS on webpack dev server
 
-* https://webpack.js.org/configuration/dev-server/#devserverhttps
-* https://github.com/webpack/webpack-dev-server/tree/master/examples/cli/https
-
+* <https://webpack.js.org/configuration/dev-server/#devserverhttps>
+* <https://github.com/webpack/webpack-dev-server/tree/master/examples/cli/https>
